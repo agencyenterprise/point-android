@@ -20,3 +20,7 @@ Point is continually deriving new health metrics, health score updates, personal
 ## Installation
 
 Refer to [Jitpack](https://jitpack.io/#agencyenterprise/point-android)
+
+## About Point
+
+Refer to [Official Page](https://www.areyouonpoint.co/)
