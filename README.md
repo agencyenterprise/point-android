@@ -1,4 +1,4 @@
-# PointSDK [![](https://jitpack.io/v/agencyenterprise/point-android.svg)](https://jitpack.io/#agencyenterprise/point-android)
+# PointSDK [![Maven Central](https://img.shields.io/maven-central/v/co.areyouonpoint.pointsdk/pointsdk)](https://repo1.maven.org/maven2/co/areyouonpoint/pointsdk/pointsdk/)
 
 Access comprehensive health and fitness user data collected from across multiple wearable devices.
 
@@ -19,7 +19,16 @@ Point is continually deriving new health metrics, health score updates, personal
 
 ## Installation
 
-Refer to [Jitpack](https://jitpack.io/#agencyenterprise/point-android)
+```kotlin
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  implementation 'co.areyouonpoint.pointsdk:pointsdk: $LATEST_VERSION'
+}
+```
 
 ## About Point
 
