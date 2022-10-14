@@ -26,7 +26,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'co.areyouonpoint.pointsdk:pointsdk:1.0.2'
+  implementation 'co.areyouonpoint.pointsdk:pointsdk:1.2.1'
 }
 ```
 
