@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>co.areyouonpoint.pointsdk</groupId>
   <artifactId>pointsdk</artifactId>
-  <version>1.0.2</version>
+  <version>1.3.0</version>
   <packaging>aar</packaging>
   <name>pointsdk</name>
   <description>Access comprehensive health and fitness user data collected from across multiple wearable devices.</description>
